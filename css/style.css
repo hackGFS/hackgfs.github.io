@@ -940,3 +940,7 @@
 		padding-top: 4em;
 		margin-top: 6em;
 	}
+
+	.information-div{
+		text-align: left!important;
+	}
