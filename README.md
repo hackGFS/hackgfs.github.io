@@ -4,7 +4,7 @@ Our official site.
 
 To do:
 
-1. Add info text
+1. Add info text (anyone)
 
 2. Official images (Alex)
 
